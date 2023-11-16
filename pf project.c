@@ -28,6 +28,7 @@ void getorder(){
 	printf("\n\n\nG.S.T \t\t\t|\t%.1f",gst);
 	printf("\n\n----------------------------------------------\n");
 	printf("\n\nGrand Total \t\t|\t%.1f",gtotal);	*/
+	printf("hello world ");
 	printf("\n\n");
 
 
